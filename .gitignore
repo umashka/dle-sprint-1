@@ -46,6 +46,9 @@ Desktop.ini
 # Jupyter Notebook
 .ipynb_checkpoints
 
-
 # Креды доступа
 .env
+clearml.conf
+
+# Датасеты
+data/
